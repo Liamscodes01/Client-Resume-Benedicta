@@ -1,0 +1,23 @@
+header{
+    background-color: hsl(240, 100%, 10%);
+    border-radius: 17px;
+    text-align: center;
+}
+div{
+    color: rgb(255, 255, 255);
+    
+}
+
+img{
+    border-radius: 100px;
+    
+}
+
+#blue{
+    color: hsl(0, 0%, 100%);
+    border: solid;
+    background-color:  hsl(240, 100%, 10%);
+    border-radius: 10px;
+    box-sizing: border-box 20px;
+    
+}
